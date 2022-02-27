@@ -1,0 +1,23 @@
+<svg id="icon_24x24_direction" data-name="icon/24x24/direction" xmlns="http://www.w3.org/2000/svg" width="23.171" height="23.17" viewBox="0 0 23.171 23.17">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_963" data-name="Path 963" d="M734.4 261.612a.75.75 0 0 0 1.5 0zm7.25-4.25h-3.5v1.5h3.5zm-7.25 3.75v.5h1.5v-.5zm3.75-3.75a3.75 3.75 0 0 0-3.75 3.75h1.5a2.25 2.25 0 0 1 2.25-2.25z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_903" data-name="Group 903" transform="translate(-726.568 -247.527)">
+        <g id="Group_902" data-name="Group 902" style="clip-path:url(#clip-path)">
+            <g id="Group_717" data-name="Group 717">
+                <path id="Path_745" data-name="Path 745" class="cls-3" d="M729.4 252.362h17.25v15H729.4z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_718" data-name="Group 718" transform="translate(-726.568 -247.527)">
+        <path id="Path_964" data-name="Path 964" class="cls-3" d="M738.154 270.7a2 2 0 0 1-1.414-.585l-9.587-9.586a2 2 0 0 1 0-2.829l9.587-9.586a2 2 0 0 1 2.828 0l9.586 9.586a2 2 0 0 1 0 2.829l-9.586 9.586a2 2 0 0 1-1.414.585zm0-21.173-9.586 9.587 9.587 9.587 9.586-9.586z"/>
+    </g>
+    <g id="Group_719" data-name="Group 719" transform="translate(-726.568 -247.527)">
+        <path id="Path_965" data-name="Path 965" class="cls-3" d="M739.154 261.862a.75.75 0 0 1-.53-1.28l2.47-2.47-2.47-2.47a.75.75 0 0 1 1.06-1.06l3.531 3.53-3.531 3.53a.742.742 0 0 1-.53.22z"/>
+    </g>
+</svg>

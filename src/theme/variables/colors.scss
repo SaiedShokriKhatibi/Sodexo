@@ -1,0 +1,82 @@
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////// Design team colors variables /////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////     Primary Color palette    //////////////////////////
+
+// Design team variables
+$sdx--blue-primary : #2a295c;
+
+// Front team variables
+$primary : $sdx--blue-primary;
+
+////////////////////////     Secondary Color palette    //////////////////////////
+
+// Design team variables
+$sdx--red-danger : #ea444e;
+$sdx--yellow-warning: #d2dc28;
+$sdx--green-success : #3cdcc8;
+$sdx--purple : #cc1480;
+$sdx--salmon : #ff906a;
+$sdx--graphite : #484848;
+
+// Front team variables
+$danger-color : $sdx--red-danger;
+$warning-color : $sdx--yellow-warning;
+$success-color : $sdx--green-success;
+$purple-color : $sdx--purple;
+$salmon-color : $sdx--salmon;
+$graphite-color : $sdx--graphite;
+
+////////////////////////     Extended Color palette    //////////////////////////
+
+///////////////////////           Blue shades         //////////////////////////
+
+// Design team variables
+//$sdx--blue_active : #003A71;
+//$sdx--blue_focus : #52A2EE;
+//$sdx--blue_hover : #AFD7FD;
+//$sdx--blue_notif : #E6F3FF;
+$sdx--perry-winkle : #8380e3;
+$sdx--dark-purple-blue : #283897;
+$sdx--gray-blue : #AFD7FD;
+$sdx--pale-purple : #aaa9be;
+$sdx--pale-lilac : #e1e2f8;
+$sdx--medium-grey: #eff1f6;
+$sdx--light-grey: #f9faff;
+
+// Front team variables
+//$primary-active-color : $sdx--blue_active;
+//$primary-focus-color : $sdx--blue_focus;
+//$primary-hover-color : $sdx--blue_hover;
+//$primary-notif-color : $sdx--blue_notif;
+$primary-selected-color : $sdx--perry-winkle;
+//$primary-focus-color : $sdx--blue_focus;
+//$primary-hover-color : $sdx--blue_hover;
+//$primary-notif-color : $sdx--blue_notif;
+
+///////////////////////           Gray shades         //////////////////////////
+
+// Design team variables
+$sdx--black_text : #1F1F1F;
+$sdx--gray_text : #484848;
+$sdx--gray_text_lighter : #828282;
+$sdx--gray_disabled-text : #BEBEBE;
+$sdx--gray_border : #E3E3E3;
+$sdx--gray_skeleton : #D8D8D8;
+$sdx--gray_disabled : #F2F2F2;
+
+$sdx--gray_background : #f8f7f9;
+$sdx--white : #FFFFFF;
+
+// Front team variables
+$black-text-color : $sdx--black_text;
+$gray-text-color : $sdx--gray_text;
+$gray-text-color-lighter : $sdx--gray_text_lighter;
+$disabled-text-color : $sdx--gray_disabled-text;
+$skeleton-color : $sdx--gray_skeleton;
+$disabled-bg-color : $sdx--gray_disabled;
+$gray-border-color : $sdx--gray_border;
+
+$gray-background-color : $sdx--gray_background;
+$white-color : $sdx--white;

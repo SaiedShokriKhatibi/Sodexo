@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.4" height="14.006" viewBox="0 0 13.4 14.006">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1091" data-name="Path 1091" d="M458.753 404.993h6a1 1 0 0 1-1 1h-5.818z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#18204b;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="icon_16x16_cart" data-name="icon/16x16/cart" transform="translate(1.006 1.006)">
+        <path id="Path_1090" data-name="Path 1090" d="M459.935 402.993h4.639a2 2 0 0 1 1.972 2.329l-.333 2a2 2 0 0 1-1.973 1.671h-6.04a2 2 0 0 1-1.984-2.248l.543-4.348a2 2 0 0 0-1.09-2.037l-.734-.367" transform="translate(-454.935 -399.993)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;stroke:#18204b;fill:none"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-3" cx="1" cy="1" r="1" transform="translate(.5 10.5)"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-3" cx="1" cy="1" r="1" transform="translate(7.5 10.5)"/>
+        <g id="Group_1077" data-name="Group 1077" transform="translate(-454.935 -399.993)">
+            <g id="Group_1076" data-name="Group 1076" style="clip-path:url(#clip-path)">
+                <path id="Rectangle_72" data-name="Rectangle 72" transform="translate(452.935 399.993)" style="fill:#e02b3c" d="M0 0h16.818v11H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

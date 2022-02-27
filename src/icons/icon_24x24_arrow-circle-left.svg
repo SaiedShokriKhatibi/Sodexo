@@ -1,0 +1,19 @@
+<svg id="icon_24x24_arrow-circle-left" data-name="icon/24x24/arrow-circle-left" xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_512" data-name="Path 512" class="cls-1" d="M203-213a11 11 0 0 0 11-11 11 11 0 0 0-11-11 11 11 0 0 0-11 11 11 11 0 0 0 11 11z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_514" data-name="Path 514" class="cls-1" d="M200-223.784a.744.744 0 0 1 .208-.517l3.381-3.485a.7.7 0 0 1 1 0 .748.748 0 0 1 0 1.034l-2.877 2.966 2.875 2.936a.747.747 0 0 1 0 1.034.7.7 0 0 1-1 0l-3.381-3.453a.738.738 0 0 1-.2-.4z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none;clip-rule:evenodd}
+        </style>
+    </defs>
+    <g id="Group_539" data-name="Group 539" transform="translate(-192 235)" style="clip-path:url(#clip-path)">
+        <path id="Path_511" data-name="Path 511" d="M187-240h32v32h-32z" style="fill:#e0e1f7"/>
+    </g>
+    <g id="Group_540" data-name="Group 540" transform="translate(-192 235)" style="clip-path:url(#clip-path-2)">
+        <path id="Path_513" data-name="Path 513" d="M195-233h14.8v18.4H195z" style="fill:#8181dc"/>
+    </g>
+</svg>

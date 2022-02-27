@@ -1,0 +1,26 @@
+<svg id="icon_24x24_globe" data-name="icon/24x24/globe" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_987" data-name="Path 987" d="m1046.141 265.8-.858-.514zm0-13.377-.858.514zm-2.845 15.259-.857.514zm1.716 0 .857.514zm0-17.142.857-.514zm-2.573-.514-1.129 1.882 1.715 1.029 1.129-1.883zm-1.129 16.288 1.129 1.882 1.715-1.029-1.129-1.882zm4.559 1.882 1.129-1.882-1.715-1.029-1.129 1.883zm1.131-16.288-1.129-1.882-1.715 1.03 1.129 1.883zm0 14.406a14 14 0 0 0 0-14.406l-1.715 1.029a12 12 0 0 1 0 12.348zm-4.559 1.882a2 2 0 0 0 3.43 0l-1.715-1.028zm-1.129-16.288a14 14 0 0 0 0 14.406l1.715-1.029a12 12 0 0 1 0-12.348zm2.844-.853 1.715-1.029a2 2 0 0 0-3.43 0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cls-2{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_747" data-name="Group 747" transform="translate(-1033.154 -248.112)">
+        <path id="Path_986" data-name="Path 986" class="cls-2" d="M1044.154 270.112a11 11 0 1 1 11-11 11.013 11.013 0 0 1-11 11zm0-20a9 9 0 1 0 9 9 9.01 9.01 0 0 0-9-9z"/>
+    </g>
+    <g id="Group_919" data-name="Group 919" transform="translate(-1033.154 -248.112)">
+        <g id="Group_918" data-name="Group 918" style="clip-path:url(#clip-path)">
+            <g id="Group_748" data-name="Group 748">
+                <path id="Path_779" data-name="Path 779" class="cls-2" d="M1034.314 244.056h19.68v30.113h-19.68z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_749" data-name="Group 749" transform="translate(-1033.154 -248.112)">
+        <path id="Rectangle_54" data-name="Rectangle 54" class="cls-2" transform="translate(1035.154 261.112)" d="M0 0h18v2H0z"/>
+    </g>
+    <g id="Group_750" data-name="Group 750" transform="translate(-1033.154 -248.112)">
+        <path id="Rectangle_55" data-name="Rectangle 55" class="cls-2" transform="translate(1035.154 255.112)" d="M0 0h18v2H0z"/>
+    </g>
+</svg>

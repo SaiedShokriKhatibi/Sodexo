@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14.5" viewBox="0 0 14 14.5">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1085" data-name="Path 1085" d="M427.935 401.493a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2z" style="clip-rule:evenodd;fill:none"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_68" data-name="Rectangle 68" class="cls-2" transform="translate(412.935 385.493)" d="M0 0h44v43H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_67" data-name="Rectangle 67" class="cls-2" transform="translate(427.935 400.493)" d="M0 0h14v13H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <rect id="Rectangle_70" data-name="Rectangle 70" class="cls-2" width="13" height="2" rx=".5" transform="translate(428.435 400.993)"/>
+        </clipPath>
+        <style>
+            .cls-2{fill:none}.cls-8{fill:#18204b}
+        </style>
+    </defs>
+    <g id="icon_16x16_calendar" data-name="icon/16x16/calendar">
+        <g id="Group_1073" data-name="Group 1073" transform="translate(-427.935 -398.993)">
+            <g id="Group_1072" data-name="Group 1072" style="clip-path:url(#clip-path)">
+                <g id="Group_1071" data-name="Group 1071" style="isolation:isolate">
+                    <g id="Group_1070" data-name="Group 1070">
+                        <g id="Group_1069" data-name="Group 1069" style="clip-path:url(#clip-path-2)">
+                            <g id="Group_1068" data-name="Group 1068">
+                                <g id="Group_1067" data-name="Group 1067" style="clip-path:url(#clip-path-3)">
+                                    <path id="Path_1084" data-name="Path 1084" d="M427.935 401.493a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2z" style="stroke-width:3px;stroke:#18204b;stroke-miterlimit:10;fill:none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path id="Path_1086" data-name="Path 1086" class="cls-8" d="M430.435 402.692a.5.5 0 0 1-.5-.5v-2.7a.5.5 0 0 1 1 0v2.7a.5.5 0 0 1-.5.5z" transform="translate(-427.935 -398.993)"/>
+        <path id="Path_1087" data-name="Path 1087" class="cls-8" d="M439.435 402.692a.5.5 0 0 1-.5-.5v-2.7a.5.5 0 0 1 1 0v2.7a.5.5 0 0 1-.5.5z" transform="translate(-427.935 -398.993)"/>
+        <path id="Path_1088" data-name="Path 1088" class="cls-8" d="M432.935 407.243h-2a.75.75 0 1 1 0-1.5h2a.75.75 0 0 1 0 1.5z" transform="translate(-427.935 -398.993)"/>
+        <path id="Path_1089" data-name="Path 1089" class="cls-8" d="M438.935 407.243h-2a.75.75 0 1 1 0-1.5h2a.75.75 0 0 1 0 1.5z" transform="translate(-427.935 -398.993)"/>
+        <g id="Group_1075" data-name="Group 1075" transform="translate(-427.935 -398.993)">
+            <g id="Group_1074" data-name="Group 1074" style="clip-path:url(#clip-path-4)">
+                <path id="Rectangle_69" data-name="Rectangle 69" class="cls-8" transform="translate(423.435 395.993)" d="M0 0h23v12H0z"/>
+            </g>
+        </g>
+        <rect id="Rectangle_71" data-name="Rectangle 71" width="13" height="2" rx=".5" transform="translate(.5 2)" style="stroke:#18204b;stroke-miterlimit:10;fill:none"/>
+    </g>
+</svg>

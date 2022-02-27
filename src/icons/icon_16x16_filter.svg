@@ -1,0 +1,10 @@
+<svg id="icon_16x16_filter" data-name="icon/16x16/filter" xmlns="http://www.w3.org/2000/svg" width="14" height="9.5">
+    <defs>
+        <style>
+            .cls-1{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1102" data-name="Path 1102" class="cls-1" d="M699.185 407.493h-8.5a.75.75 0 0 1 0-1.5h8.5a.75.75 0 0 1 0 1.5z" transform="translate(-687.935 -401.993)"/>
+    <path id="Path_1103" data-name="Path 1103" class="cls-1" d="M701.185 403.493h-12.5a.75.75 0 0 1 0-1.5h12.5a.75.75 0 0 1 0 1.5z" transform="translate(-687.935 -401.993)"/>
+    <path id="Path_1104" data-name="Path 1104" class="cls-1" d="M696.185 411.493h-2.5a.75.75 0 0 1 0-1.5h2.5a.75.75 0 0 1 0 1.5z" transform="translate(-687.935 -401.993)"/>
+</svg>

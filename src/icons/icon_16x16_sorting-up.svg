@@ -1,0 +1,10 @@
+<svg data-name="icon/16x16/sorting-up" xmlns="http://www.w3.org/2000/svg" width="7.312" height="4.279" viewBox="0 0 7.312 4.279">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Path 1140" d="M1162.575 404.367a.5.5 0 0 1 .72 0l3.155 3.279a.5.5 0 0 1-.36.847h-6.31a.5.5 0 0 1-.36-.847z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1150" transform="translate(-1159.279 -404.214)" style="clip-path:url(#a)">
+        <path data-name="Rectangle 111" transform="translate(1154.279 399.214)" style="fill:#18204b" d="M0 0h17.312v14.279H0z"/>
+    </g>
+</svg>

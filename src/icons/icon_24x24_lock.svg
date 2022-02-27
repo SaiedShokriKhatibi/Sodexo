@@ -1,0 +1,23 @@
+<svg id="icon_24x24_lock" data-name="icon/24x24/lock" xmlns="http://www.w3.org/2000/svg" width="15.688" height="22.001" viewBox="0 0 15.688 22.001">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_998" data-name="Path 998" class="cls-1" d="m265.369 336.1-.793-1.645a.447.447 0 0 1 .112-.521 1.337 1.337 0 0 0 .4-1.291 1.275 1.275 0 0 0-2.519.3 1.32 1.32 0 0 0 .439.986.437.437 0 0 1 .108.515l-.794 1.651a.552.552 0 0 0 .245.741.535.535 0 0 0 .232.059h2.091a.551.551 0 0 0 .479-.8z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_760" data-name="Group 760" transform="translate(-255.813 -320.112)">
+        <path id="Path_996" data-name="Path 996" class="cls-1" d="M267.513 342.113H259.8a3.994 3.994 0 0 1-3.988-3.983v-7.713a3.992 3.992 0 0 1 3.988-3.988h7.712a3.993 3.993 0 0 1 3.988 3.988v7.711a3.994 3.994 0 0 1-3.987 3.985zm-7.713-13.684a1.991 1.991 0 0 0-1.988 1.988v7.711a1.991 1.991 0 0 0 1.988 1.985h7.712a1.991 1.991 0 0 0 1.988-1.986v-7.71a1.991 1.991 0 0 0-1.988-1.988z"/>
+    </g>
+    <g id="Group_761" data-name="Group 761" transform="translate(-255.813 -320.112)">
+        <path id="Path_997" data-name="Path 997" class="cls-1" d="M267.722 328.476h-8.182a1 1 0 0 1-1-1v-3.183c0-2.3 2.284-4.181 5.091-4.181s5.091 1.876 5.091 4.181v3.183a1 1 0 0 1-1 1zm-7.182-2h6.182v-2.183c0-1.182-1.416-2.181-3.091-2.181s-3.091 1-3.091 2.181z"/>
+    </g>
+    <g id="Group_931" data-name="Group 931" transform="translate(-255.813 -320.112)">
+        <g id="Group_930" data-name="Group 930" style="clip-path:url(#clip-path)">
+            <g id="Group_762" data-name="Group 762">
+                <path id="Path_799" data-name="Path 799" class="cls-1" d="M257.268 326.638h13.161V341.9h-13.158z"/>
+            </g>
+        </g>
+    </g>
+</svg>

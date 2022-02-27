@@ -1,0 +1,20 @@
+<svg id="icon_24x24_price_tag" data-name="icon/24x24/price_tag" xmlns="http://www.w3.org/2000/svg" width="23.836" height="23.799" viewBox="0 0 23.836 23.799">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1031" data-name="Path 1031" class="cls-1" d="M870.059 326.044a1.206 1.206 0 0 0 0 1.7 1.208 1.208 0 0 0 1.707 0 1.208 1.208 0 0 0 0-1.707 1.206 1.206 0 0 0-1.707 0zM869 328.812a2.707 2.707 0 1 1 3.829 0 2.707 2.707 0 0 1-3.829 0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_800" data-name="Group 800" transform="translate(-863.231 -319.254)">
+        <path id="Path_1030" data-name="Path 1030" class="cls-1" d="M877.128 343.053a3.4 3.4 0 0 1-2.409-1l-10.327-10.321a3.94 3.94 0 0 1-1.134-3.256l.689-6.021a2.618 2.618 0 0 1 2.236-2.294l6.255-.872a3.987 3.987 0 0 1 3.352 1.122l10.28 10.279a3.418 3.418 0 0 1 0 4.825l-6.532 6.538a3.4 3.4 0 0 1-2.41 1zm-4.414-21.78-6.254.871a.619.619 0 0 0-.527.542l-.689 6.021a1.962 1.962 0 0 0 .562 1.614l10.326 10.321a1.411 1.411 0 0 0 1.992 0l6.532-6.538a1.415 1.415 0 0 0 0-2l-10.279-10.278a2 2 0 0 0-1.663-.553z"/>
+    </g>
+    <g id="Group_979" data-name="Group 979" transform="translate(-863.231 -319.254)">
+        <g id="Group_978" data-name="Group 978" style="clip-path:url(#clip-path)">
+            <g id="Group_801" data-name="Group 801">
+                <path id="Path_863" data-name="Path 863" class="cls-1" d="M863.205 319.19h15.414v15.41h-15.414z"/>
+            </g>
+        </g>
+    </g>
+</svg>

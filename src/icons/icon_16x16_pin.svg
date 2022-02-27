@@ -1,0 +1,23 @@
+<svg id="icon_16x16_pin" data-name="icon/16x16/pin" xmlns="http://www.w3.org/2000/svg" width="12" height="14.667" viewBox="0 0 12 14.667">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1135" data-name="Path 1135" class="cls-1" d="M1032.934 406.76a1.6 1.6 0 1 1 1.6-1.6 1.572 1.572 0 0 1-1.6 1.6zm0-4.267a2.666 2.666 0 1 0 2.667 2.667 2.64 2.64 0 0 0-2.667-2.667z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1136" data-name="Path 1136" class="cls-1" d="M1032.935 412.632c-1.091-.815-4.91-3.966-4.91-7.5a4.892 4.892 0 0 1 4.8-4.889h.11a4.879 4.879 0 0 1 4.909 4.889c0 3.534-3.764 6.631-4.909 7.5zm.163-13.472h-.163a5.97 5.97 0 0 0-6 5.975c0 4.4 4.8 7.986 5.618 8.529.054.054.109.108.163.108a.408.408 0 0 0 .273.055.782.782 0 0 0 .327-.109c.164-.109 5.619-3.911 5.619-8.583a6.009 6.009 0 0 0-5.835-5.975z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-3{fill:#18204b}
+        </style>
+    </defs>
+    <g id="Group_1137" data-name="Group 1137" transform="translate(-1026.935 -399.16)">
+        <g id="Group_1136" data-name="Group 1136" style="clip-path:url(#clip-path)">
+            <path id="Rectangle_104" data-name="Rectangle 104" class="cls-3" transform="translate(1025.268 397.493)" d="M0 0h15.333v15.333H0z"/>
+        </g>
+    </g>
+    <g id="Group_1139" data-name="Group 1139" transform="translate(-1026.935 -399.16)">
+        <g id="Group_1138" data-name="Group 1138" style="clip-path:url(#clip-path-2)">
+            <path id="Rectangle_105" data-name="Rectangle 105" class="cls-3" transform="translate(1021.935 394.16)" d="M0 0h22v24.667H0z"/>
+        </g>
+    </g>
+</svg>

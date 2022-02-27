@@ -1,0 +1,23 @@
+<svg id="icon_16x16_puce" data-name="icon/16x16/puce" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-1" cx="8" cy="8" r="8" transform="translate(1102.935 398.493)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <circle id="Ellipse_28" data-name="Ellipse 28" class="cls-1" cx="2" cy="2" r="2" transform="translate(1108.935 404.493)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_1145" data-name="Group 1145" transform="translate(-1102.935 -398.493)">
+        <g id="Group_1144" data-name="Group 1144" style="clip-path:url(#clip-path)">
+            <path id="Rectangle_108" data-name="Rectangle 108" transform="translate(1097.935 393.493)" style="fill:#e4e4ec" d="M0 0h26v26H0z"/>
+        </g>
+    </g>
+    <g id="Group_1147" data-name="Group 1147" transform="translate(-1102.935 -398.493)">
+        <g id="Group_1146" data-name="Group 1146" style="clip-path:url(#clip-path-2)">
+            <path id="Rectangle_109" data-name="Rectangle 109" transform="translate(1103.935 399.493)" style="fill:#c9cbd7" d="M0 0h14v14H0z"/>
+        </g>
+    </g>
+</svg>

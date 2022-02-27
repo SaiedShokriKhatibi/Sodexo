@@ -1,0 +1,46 @@
+<svg id="icon_24x24_settings" data-name="icon/24x24/settings" xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_14" data-name="Ellipse 14" class="cls-1" cx="2" cy="2" r="2" transform="translate(1005.129 322.112)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-1" cx="2" cy="2" r="2" transform="translate(1014.129 329.112)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-1" cx="2" cy="2" r="2" transform="translate(1007.129 336.112)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_810" data-name="Group 810" transform="translate(-1000.129 -322.112)">
+        <path id="Path_1036" data-name="Path 1036" class="cls-1" d="M1021.129 332.112h-20a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z"/>
+    </g>
+    <g id="Group_811" data-name="Group 811" transform="translate(-1000.129 -322.112)">
+        <path id="Path_1037" data-name="Path 1037" class="cls-1" d="M1021.129 339.112h-20a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z"/>
+    </g>
+    <g id="Group_812" data-name="Group 812" transform="translate(-1000.129 -322.112)">
+        <path id="Path_1038" data-name="Path 1038" class="cls-1" d="M1021.129 325.112h-20a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z"/>
+    </g>
+    <g id="Group_997" data-name="Group 997" transform="translate(-1000.129 -322.112)">
+        <g id="Group_996" data-name="Group 996" style="clip-path:url(#clip-path)">
+            <g id="Group_813" data-name="Group 813">
+                <path id="Path_884" data-name="Path 884" class="cls-1" d="M1000.129 317.112h14v14h-14z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_999" data-name="Group 999" transform="translate(-1000.129 -322.112)">
+        <g id="Group_998" data-name="Group 998" style="clip-path:url(#clip-path-2)">
+            <g id="Group_814" data-name="Group 814">
+                <path id="Path_886" data-name="Path 886" class="cls-1" d="M1009.129 324.112h14v14h-14z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_1001" data-name="Group 1001" transform="translate(-1000.129 -322.112)">
+        <g id="Group_1000" data-name="Group 1000" style="clip-path:url(#clip-path-3)">
+            <g id="Group_815" data-name="Group 815">
+                <path id="Path_888" data-name="Path 888" class="cls-1" d="M1002.129 331.112h14v14h-14z"/>
+            </g>
+        </g>
+    </g>
+</svg>

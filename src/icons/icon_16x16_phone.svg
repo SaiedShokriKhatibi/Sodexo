@@ -1,0 +1,24 @@
+<svg id="icon_16x16_phone" data-name="icon/16x16/phone" xmlns="http://www.w3.org/2000/svg" width="8" height="14" viewBox="0 0 8 14">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1133" data-name="Path 1133" class="cls-1" d="M1005.935 399.493h2a1 1 0 0 1 0 2h-2a1 1 0 0 1 0-2z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1134" data-name="Path 1134" class="cls-1" d="M1006.435 410.493h.934a.5.5 0 0 1 0 1h-.934a.5.5 0 0 1 0-1z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1132" data-name="Path 1132" class="cls-2" d="M1008.935 413.493h-4a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2zm-4-12.5a.5.5 0 0 0-.5.5v10a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-10a.5.5 0 0 0-.5-.5z" transform="translate(-1002.935 -399.493)"/>
+    <g id="Group_1133" data-name="Group 1133" transform="translate(-1002.935 -399.493)">
+        <g id="Group_1132" data-name="Group 1132" style="clip-path:url(#clip-path)">
+            <path id="Rectangle_102" data-name="Rectangle 102" class="cls-2" transform="translate(999.935 394.493)" d="M0 0h14v12H0z"/>
+        </g>
+    </g>
+    <g id="Group_1135" data-name="Group 1135" transform="translate(-1002.935 -399.493)">
+        <g id="Group_1134" data-name="Group 1134" style="clip-path:url(#clip-path-2)">
+            <path id="Rectangle_103" data-name="Rectangle 103" class="cls-2" transform="translate(1000.935 405.493)" d="M0 0h11.934v11H0z"/>
+        </g>
+    </g>
+</svg>

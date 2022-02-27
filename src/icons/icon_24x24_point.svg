@@ -1,0 +1,27 @@
+<svg id="icon_24x24_point" data-name="icon/24x24/point" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="8" cy="8" r="8" transform="translate(833.129 323.112)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="3" cy="3" r="3" transform="translate(838.129 328.112)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_975" data-name="Group 975" transform="translate(-833.129 -323.112)">
+        <g id="Group_974" data-name="Group 974" style="clip-path:url(#clip-path)">
+            <g id="Group_798" data-name="Group 798">
+                <path id="Path_858" data-name="Path 858" d="M828.129 318.112h26v26h-26z" style="fill:#eef0f6"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_977" data-name="Group 977" transform="translate(-833.129 -323.112)">
+        <g id="Group_976" data-name="Group 976" style="clip-path:url(#clip-path-2)">
+            <g id="Group_799" data-name="Group 799">
+                <path id="Path_860" data-name="Path 860" d="M833.129 323.112h16v16h-16z" style="fill:#f9faff"/>
+            </g>
+        </g>
+    </g>
+</svg>

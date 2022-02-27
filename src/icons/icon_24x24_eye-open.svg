@@ -1,0 +1,20 @@
+<svg id="icon_24x24_eye-open" data-name="icon/24x24/eye-open" xmlns="http://www.w3.org/2000/svg" width="22.053" height="14" viewBox="0 0 22.053 14">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_5" data-name="Ellipse 5" cx="3" cy="3" r="3" transform="translate(905.154 256.112)" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cls-2{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_728" data-name="Group 728" transform="translate(-897.129 -252.112)">
+        <path id="Path_973" data-name="Path 973" class="cls-2" d="M908.155 266.112c-2.484 0-5.174-1.21-7.778-3.5a23.491 23.491 0 0 1-2.358-2.406c-.145-.172-.274-.33-.383-.465l-.506-.628.506-.628c.109-.136.238-.293.383-.465a23.549 23.549 0 0 1 2.357-2.4c2.6-2.293 5.294-3.5 7.78-3.5s5.173 1.21 7.778 3.5a23.657 23.657 0 0 1 2.358 2.4q.217.259.385.467l.506.627-.506.629c-.11.136-.239.293-.384.465a23.549 23.549 0 0 1-2.357 2.4c-2.605 2.292-5.295 3.504-7.781 3.504zm-8.439-7a21.393 21.393 0 0 0 1.983 2c1.556 1.367 3.94 3 6.456 3s4.9-1.635 6.457-3.005a21.464 21.464 0 0 0 1.982-2 21.616 21.616 0 0 0-1.983-2c-1.556-1.367-3.942-3-6.456-3s-4.9 1.634-6.457 3a21.334 21.334 0 0 0-1.982 2.005z"/>
+    </g>
+    <g id="Group_911" data-name="Group 911" transform="translate(-897.129 -252.112)">
+        <g id="Group_910" data-name="Group 910" style="clip-path:url(#clip-path)">
+            <g id="Group_729" data-name="Group 729">
+                <path id="Path_761" data-name="Path 761" class="cls-2" d="M900.154 251.112h16v16h-16z"/>
+            </g>
+        </g>
+    </g>
+</svg>

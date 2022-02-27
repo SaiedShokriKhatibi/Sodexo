@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .cls-3{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="icon_24x24_cross-circle" data-name="icon/24x24/cross-circle">
+        <path id="Path_955" data-name="Path 955" d="M680.654 259.112a10.5 10.5 0 0 1-10.5 10.5 10.5 10.5 0 0 1-10.5-10.5 10.5 10.5 0 0 1 10.5-10.5 10.5 10.5 0 0 1 10.5 10.5z" transform="translate(-659.154 -248.112)" style="fill:none"/>
+        <path id="Path_956" data-name="Path 956" d="M670.154 270.112a11 11 0 1 1 11-11 11.013 11.013 0 0 1-11 11zm0-21a10 10 0 1 0 10 10 10.011 10.011 0 0 0-10-10z" transform="translate(-659.154 -248.112)" style="fill:#eae9ee"/>
+        <path id="Path_957" data-name="Path 957" class="cls-3" d="M674.154 264.112a1 1 0 0 1-.707-.293l-8-8a1 1 0 0 1 1.414-1.414l8 8a1 1 0 0 1-.707 1.707z" transform="translate(-659.154 -248.112)"/>
+        <path id="Path_958" data-name="Path 958" class="cls-3" d="M666.154 264.112a1 1 0 0 1-.707-1.707l8-8a1 1 0 0 1 1.414 1.414l-8 8a1 1 0 0 1-.707.293z" transform="translate(-659.154 -248.112)"/>
+    </g>
+</svg>

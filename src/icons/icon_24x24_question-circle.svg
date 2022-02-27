@@ -1,0 +1,27 @@
+<svg id="icon_24x24_question-circle" data-name="icon/24x24/question-circle" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_13" data-name="Ellipse 13" class="cls-1" cx="11" cy="11" r="11" transform="translate(932.129 320.112)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1034" data-name="Path 1034" class="cls-1" d="M942.489 333.944v-.976a3.344 3.344 0 0 1 .064-.72 1.843 1.843 0 0 1 .192-.512 1.885 1.885 0 0 1 .336-.448c.149-.149.331-.325.544-.528l.512-.48q.244-.244.464-.512a2.794 2.794 0 0 0 .336-.56 1.64 1.64 0 0 0 0-1.344 1.6 1.6 0 0 0-.352-.544 1.613 1.613 0 0 0-.544-.352 1.679 1.679 0 0 0-.656-.128 1.73 1.73 0 0 0-1.28.5 2.175 2.175 0 0 0-.576 1.3l-1.632-.16a3.353 3.353 0 0 1 1.152-2.176 3.573 3.573 0 0 1 2.368-.8 3.634 3.634 0 0 1 1.248.208 2.815 2.815 0 0 1 1.024.576 2.49 2.49 0 0 1 .672.928 2.9 2.9 0 0 1 .256 1.248 3.011 3.011 0 0 1-.176 1.072 3.294 3.294 0 0 1-.5.848l-.96.992-.16.144c-.171.16-.309.3-.416.416a1.566 1.566 0 0 0-.24.352 1.463 1.463 0 0 0-.112.4 4.2 4.2 0 0 0-.032.56v.7zm-.3 2.208a1 1 0 0 1 .3-.736 1.028 1.028 0 0 1 .752-.32 1.095 1.095 0 0 1 1.056 1.056 1.032 1.032 0 0 1-.32.752 1 1 0 0 1-.736.3 1.032 1.032 0 0 1-1.056-1.052z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_991" data-name="Group 991" transform="translate(-932.129 -320.112)">
+        <g id="Group_990" data-name="Group 990" style="clip-path:url(#clip-path)">
+            <g id="Group_807" data-name="Group 807">
+                <path id="Path_875" data-name="Path 875" d="M927.129 315.112h32v32h-32z" style="fill:#8181dc"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_993" data-name="Group 993" transform="translate(-932.129 -320.112)">
+        <g id="Group_992" data-name="Group 992" style="clip-path:url(#clip-path-2)">
+            <g id="Group_808" data-name="Group 808">
+                <path id="Path_877" data-name="Path 877" d="M934.9 320.5h16.72v21.716H934.9z" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

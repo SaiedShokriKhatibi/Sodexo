@@ -1,0 +1,10 @@
+<svg data-name="icon/16x16/cross" xmlns="http://www.w3.org/2000/svg" width="12.44" height="12.433">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Path 1096" d="m590.938 405.429 4.877-4.878a.752.752 0 1 1 1.057 1.058l-4.877 4.878 4.884 4.883a.757.757 0 1 1-1.065 1.066l-4.884-4.884-4.88 4.88a.762.762 0 0 1-1.116.061.753.753 0 0 1 .047-1.108l4.891-4.891-4.834-4.838a.756.756 0 1 1 1.064-1.064z" style="fill:none;clip-rule:evenodd"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1088" transform="translate(-584.712 -400.276)" style="clip-path:url(#a)">
+        <path data-name="Rectangle 78" transform="translate(579.712 395.276)" style="fill:#18204b" d="M0 0h22.44v22.433H0z"/>
+    </g>
+</svg>

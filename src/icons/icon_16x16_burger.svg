@@ -1,0 +1,10 @@
+<svg id="icon_16x16_burger" data-name="icon/16x16/burger" xmlns="http://www.w3.org/2000/svg" width="13.5" height="11.5" viewBox="0 0 13.5 11.5">
+    <defs>
+        <style>
+            .cls-1{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1081" data-name="Path 1081" class="cls-1" d="M414.935 402.243h-12a.75.75 0 1 1 0-1.5h12a.75.75 0 0 1 0 1.5z" transform="translate(-402.185 -400.743)"/>
+    <path id="Path_1082" data-name="Path 1082" class="cls-1" d="M414.935 407.243h-12a.75.75 0 1 1 0-1.5h12a.75.75 0 0 1 0 1.5z" transform="translate(-402.185 -400.743)"/>
+    <path id="Path_1083" data-name="Path 1083" class="cls-1" d="M410.935 412.243h-8a.75.75 0 1 1 0-1.5h8a.75.75 0 0 1 0 1.5z" transform="translate(-402.185 -400.743)"/>
+</svg>

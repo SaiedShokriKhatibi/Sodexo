@@ -1,0 +1,30 @@
+<svg id="icon_24x24_cart" data-name="icon/24x24/cart" xmlns="http://www.w3.org/2000/svg" width="23.007" height="20" viewBox="0 0 23.007 20">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_950" data-name="Path 950" d="M530.563 257.112h9.091a2 2 0 0 1-2 2h-8z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .cls-2{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_1017" data-name="Group 1017" transform="translate(-522.154 -249.112)">
+        <g id="Group_1016" data-name="Group 1016">
+            <g id="Group_680" data-name="Group 680">
+                <path id="Path_947" data-name="Path 947" class="cls-2" d="M541.056 263.612h-14.462a3.007 3.007 0 0 1-2.943-3.585l1.544-7.72a1 1 0 0 0-.784-1.176 1.012 1.012 0 0 0-.2-.019h-1.06a1 1 0 0 1 0-2h1.06a2.907 2.907 0 0 1 .592.059 3 3 0 0 1 2.35 3.529l-1.543 7.717a1.036 1.036 0 0 0-.018.2 1 1 0 0 0 1 1h14.46a.993.993 0 0 0 .971-.783l1.112-5a1.016 1.016 0 0 0 .024-.217 1 1 0 0 0-1-1h-12.005a1 1 0 0 1 0-2h12.007a3 3 0 0 1 3 3 3.043 3.043 0 0 1-.071.649l-1.112 5a2.983 2.983 0 0 1-2.922 2.346z"/>
+            </g>
+            <g id="Group_681" data-name="Group 681">
+                <path id="Path_948" data-name="Path 948" class="cls-2" d="M526.154 269.112a2.5 2.5 0 1 1 2.5-2.5 2.5 2.5 0 0 1-2.5 2.5zm0-3a.5.5 0 1 0 .5.5.5.5 0 0 0-.5-.5z"/>
+            </g>
+            <g id="Group_682" data-name="Group 682">
+                <path id="Path_949" data-name="Path 949" class="cls-2" d="M537.154 269.112a2.5 2.5 0 1 1 2.5-2.5 2.5 2.5 0 0 1-2.5 2.5zm0-3a.5.5 0 1 0 .5.5.5.5 0 0 0-.5-.5z"/>
+            </g>
+        </g>
+        <g id="Group_871" data-name="Group 871">
+            <g id="Group_870" data-name="Group 870" style="clip-path:url(#clip-path)">
+                <g id="Group_683" data-name="Group 683">
+                    <path id="Path_714" data-name="Path 714" d="M524.654 252.112h20v12h-20z" style="fill:#ea444e"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg id="icon_24x24_Excel" data-name="icon/24x24/Excel" xmlns="http://www.w3.org/2000/svg" width="24.001" height="24.001" viewBox="0 0 24.001 24.001">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_968" data-name="Path 968" class="cls-1" d="m852.154 251.312-4.8-4.2h-10.2a2.946 2.946 0 0 0-3 2.891v.109h-1a.765.765 0 0 0-.5.2l-4 2.5a.89.89 0 0 0-.5.8v11.5a1.05 1.05 0 0 0 .5.9l4.5 2.5a.749.749 0 0 0 .5.1h.6a2.917 2.917 0 0 0 2.9 2.5h12a2.946 2.946 0 0 0 3-2.891v-.109zm-5-2.2 2 2h-1.1c-.5 0-.9-.5-.9-1.2zm-13 17.5h-.2l-3.8-2.1v-10.3l3.3-2.1h7.7v14.5zm16.1 1.2a1.368 1.368 0 0 1-1.333 1.4h-11.467a1.428 1.428 0 0 1-1.2-.6h5.9a.945.945 0 0 0 1-.887 1.057 1.057 0 0 0 0-.113v-16.5a.945.945 0 0 0-.887-1 1.066 1.066 0 0 0-.113 0h-6.1a1.409 1.409 0 0 1 1.4-1.1h8v1.1a2.946 2.946 0 0 0 2.891 3h2.009v14.7z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_969" data-name="Path 969" class="cls-1" d="m835.654 257.895 1.517-2.783h1.867l-2.333 3.942 2.449 4.058h-1.983l-1.517-2.783-1.517 2.783h-1.983l2.45-4.058-2.333-3.942h1.867z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_907" data-name="Group 907" transform="translate(-828.154 -247.111)">
+        <g id="Group_906" data-name="Group 906" style="clip-path:url(#clip-path)">
+            <g id="Group_723" data-name="Group 723">
+                <path id="Path_753" data-name="Path 753" d="M823.154 242.112h34v34h-34z" style="fill:#2a295c"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_909" data-name="Group 909" transform="translate(-828.154 -247.111)">
+        <g id="Group_908" data-name="Group 908" style="clip-path:url(#clip-path-2)">
+            <g id="Group_724" data-name="Group 724">
+                <path id="Path_755" data-name="Path 755" d="M827.154 250.112h17v18h-17z" style="fill:#127d5d"/>
+            </g>
+        </g>
+    </g>
+</svg>

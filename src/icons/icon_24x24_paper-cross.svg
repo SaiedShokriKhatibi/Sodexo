@@ -1,0 +1,27 @@
+<svg id="icon_24x24_paper-cross" data-name="icon/24x24/paper-cross" xmlns="http://www.w3.org/2000/svg" width="18" height="24" viewBox="0 0 18 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1006" data-name="Path 1006" class="cls-1" d="M440.254 339.852a1.405 1.405 0 0 1-1.425 1.385h-11.4a1.405 1.405 0 0 1-1.429-1.385v-17.48a1.4 1.4 0 0 1 1.414-1.385h7.986v1.156a3 3 0 0 0 3 3h1.854zm-3.125-18.74 2 2h-1.058a1.078 1.078 0 0 1-.942-1.194zm4.988 2.156-4.8-4.156h-10.188a3 3 0 0 0-3 3v18a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1007" data-name="Path 1007" class="cls-1" d="m433.129 331.447 3.048-3.048a.477.477 0 0 1 .673-.06l.027.024a.477.477 0 0 1-.01.674l-.028.026-3.047 3.049 3.052 3.052a.481.481 0 0 1 .055.678l-.02.022a.479.479 0 0 1-.677-.01l-.023-.025-3.05-3.056-3.05 3.05a.477.477 0 0 1-.672.063l-.028-.025a.47.47 0 0 1 0-.665l.03-.027 3.057-3.057-3.022-3.024a.478.478 0 0 1-.061-.672l.026-.028a.478.478 0 0 1 .677.009l.023.025z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_939" data-name="Group 939" transform="translate(-424.129 -319.112)">
+        <g id="Group_938" data-name="Group 938" style="clip-path:url(#clip-path)">
+            <g id="Group_771" data-name="Group 771">
+                <path id="Path_813" data-name="Path 813" class="cls-1" d="M419.129 314.112h28v34h-28z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_941" data-name="Group 941" transform="translate(-424.129 -319.112)">
+        <g id="Group_940" data-name="Group 940" style="clip-path:url(#clip-path-2)">
+            <g id="Group_772" data-name="Group 772">
+                <path id="Path_815" data-name="Path 815" class="cls-1" d="M424.24 323.226h17.775V341H424.24z"/>
+            </g>
+        </g>
+    </g>
+</svg>

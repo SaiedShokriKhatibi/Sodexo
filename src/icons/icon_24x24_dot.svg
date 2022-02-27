@@ -1,0 +1,15 @@
+<svg id="icon_24x24_dot" data-name="icon/24x24/dot" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="6" cy="6" r="6" transform="translate(766.154 253.112)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_904" data-name="Group 904" transform="translate(-766.154 -253.112)" style="clip-path:url(#clip-path)">
+        <g id="Group_720" data-name="Group 720">
+            <path id="Path_749" data-name="Path 749" class="cls-1" d="M761.154 248.112h22v22h-22z"/>
+        </g>
+    </g>
+</svg>

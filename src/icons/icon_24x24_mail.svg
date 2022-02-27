@@ -1,0 +1,13 @@
+<svg id="icon_24x24_mail" data-name="icon/24x24/mail" xmlns="http://www.w3.org/2000/svg" width="22" height="14" viewBox="0 0 22 14">
+    <defs>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_765" data-name="Group 765" transform="translate(-320.129 -324.112)">
+        <path id="Path_1000" data-name="Path 1000" class="cls-1" d="M340.129 338.112h-18a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2zm-18-12v10h18v-10z"/>
+    </g>
+    <g id="Group_766" data-name="Group 766" transform="translate(-320.129 -324.112)">
+        <path id="Path_1001" data-name="Path 1001" class="cls-1" d="M331.129 333.579a3 3 0 0 1-1.842-.632l-7.772-6.046 1.228-1.578 7.771 6.045a1 1 0 0 0 1.229 0l7.772-6.045 1.228 1.578-7.772 6.045a2.993 2.993 0 0 1-1.842.633z"/>
+    </g>
+</svg>

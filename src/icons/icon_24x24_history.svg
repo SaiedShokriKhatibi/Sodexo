@@ -1,0 +1,19 @@
+<svg id="icon_24x24_history" data-name="icon/24x24/history" xmlns="http://www.w3.org/2000/svg" width="21.065" height="22" viewBox="0 0 21.065 22">
+    <defs>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_752" data-name="Group 752" transform="translate(-117.064 -320.112)">
+        <path id="Path_989" data-name="Path 989" class="cls-1" d="M118.064 328.641a1 1 0 0 1-1-1v-5.529a1 1 0 0 1 2 0v4.151l3.461-1.129a1 1 0 0 1 .62 1.9l-4.771 1.555a1 1 0 0 1-.31.052z"/>
+    </g>
+    <g id="Group_753" data-name="Group 753" transform="translate(-117.064 -320.112)">
+        <path id="Path_990" data-name="Path 990" class="cls-1" d="M127.129 332.112a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"/>
+    </g>
+    <g id="Group_754" data-name="Group 754" transform="translate(-117.064 -320.112)">
+        <path id="Path_991" data-name="Path 991" class="cls-1" d="M131.129 336.112a1 1 0 0 1-.707-.293l-4-4a1 1 0 0 1 1.414-1.414l4 4a1 1 0 0 1-.707 1.707z"/>
+    </g>
+    <g id="Group_755" data-name="Group 755" transform="translate(-117.064 -320.112)">
+        <path id="Path_992" data-name="Path 992" class="cls-1" d="M127.231 342.112a10.813 10.813 0 0 1-6.882-2.477 1 1 0 0 1 1.275-1.541 8.809 8.809 0 0 0 5.6 2.018h.008a9 9 0 0 0 0-18c-3.935 0-6.945 2.957-8.18 5.888a1 1 0 1 1-1.843-.777 11.259 11.259 0 0 1 10.028-7.111 11 11 0 0 1 0 22z"/>
+    </g>
+</svg>

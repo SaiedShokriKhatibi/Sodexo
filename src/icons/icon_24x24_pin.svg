@@ -1,0 +1,27 @@
+<svg id="icon_24x24_pin" data-name="icon/24x24/pin" xmlns="http://www.w3.org/2000/svg" width="18" height="22.008" viewBox="0 0 18 22.008">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1023" data-name="Path 1023" class="cls-1" d="M671.129 325.112a3.96 3.96 0 0 0-4 3.921v.079a3.961 3.961 0 0 0 3.922 4h.078a3.962 3.962 0 0 0 4-3.922v-.078a3.96 3.96 0 0 0-3.922-4zm0 6.4a2.357 2.357 0 0 1-2.4-2.313v-.087a2.357 2.357 0 0 1 2.313-2.4h.087a2.357 2.357 0 0 1 2.4 2.313v.087a2.357 2.357 0 0 1-2.313 2.4z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1024" data-name="Path 1024" class="cls-1" d="M671.374 320.112h-.245a8.956 8.956 0 0 0-9 8.912v.051c0 6.6 7.2 11.978 8.427 12.793.082.081.164.163.246.163a.617.617 0 0 0 .409.082 1.176 1.176 0 0 0 .491-.163c.245-.163 8.427-5.867 8.427-12.874a9.012 9.012 0 0 0-8.755-8.964zm-.245 20.207c-1.636-1.222-7.364-5.948-7.364-11.244a7.336 7.336 0 0 1 7.2-7.333h.164a7.318 7.318 0 0 1 7.364 7.272v.061c0 5.296-5.646 9.937-7.364 11.244z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_959" data-name="Group 959" transform="translate(-662.129 -320.112)">
+        <g id="Group_958" data-name="Group 958" style="clip-path:url(#clip-path)">
+            <g id="Group_790" data-name="Group 790">
+                <path id="Path_842" data-name="Path 842" class="cls-1" d="M662.129 320.112h18v18h-18z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_961" data-name="Group 961" transform="translate(-662.129 -320.112)">
+        <g id="Group_960" data-name="Group 960" style="clip-path:url(#clip-path-2)">
+            <g id="Group_791" data-name="Group 791">
+                <path id="Path_844" data-name="Path 844" class="cls-1" d="M657.129 315.112h28v32h-28z"/>
+            </g>
+        </g>
+    </g>
+</svg>

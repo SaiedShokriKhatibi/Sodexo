@@ -1,0 +1,17 @@
+<svg id="icon_24x24_house" data-name="icon/24x24/house" xmlns="http://www.w3.org/2000/svg" width="22.003" height="20" viewBox="0 0 22.003 20">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_994" data-name="Path 994" class="cls-1" d="m195.7 321.29.1.078 10 9a1 1 0 0 1-1.24 1.564l-.1-.078-.331-.3v7.558h1a1 1 0 0 1 .117 1.993l-.116.007h-20a1 1 0 0 1-.117-1.993l.117-.007h1v-7.555l-.331.3-.1.078a1 1 0 0 1-1.328-1.475l.088-.09 10-9 .1-.078a1 1 0 0 1 1.141-.002zm-.57 2.167-7 6.3v9.355h3v-4a2 2 0 0 1 1.851-1.995l.149-.005h4a2 2 0 0 1 2 2v4h3v-9.355zm2 11.655h-4v4h4zm-2-7a1 1 0 1 1-1 1 1 1 0 0 1 .999-1z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_925" data-name="Group 925" transform="translate(-184.127 -321.112)">
+        <g id="Group_924" data-name="Group 924" style="clip-path:url(#clip-path)">
+            <g id="Group_757" data-name="Group 757">
+                <path id="Path_791" data-name="Path 791" class="cls-1" d="M179.129 316.112h32v30h-32z"/>
+            </g>
+        </g>
+    </g>
+</svg>

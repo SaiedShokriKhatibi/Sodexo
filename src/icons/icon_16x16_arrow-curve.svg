@@ -1,0 +1,9 @@
+<svg id="icon_16x16_arrow-curve" data-name="icon/16x16/arrow-curve" xmlns="http://www.w3.org/2000/svg" width="9.5" height="13.5" viewBox="0 0 9.5 13.5">
+    <defs>
+        <style>
+            .cls-1{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1073" data-name="Path 1073" class="cls-1" d="M227.935 407.243a.75.75 0 0 1-.531-1.28l2.47-2.47-2.47-2.47a.75.75 0 0 1 1.061-1.06l3 3a.749.749 0 0 1 0 1.06l-3 3a.747.747 0 0 1-.53.22z" transform="translate(-222.185 -399.743)"/>
+    <path id="Path_1074" data-name="Path 1074" class="cls-1" d="M222.935 413.243a.75.75 0 0 1-.75-.75v-5a4.755 4.755 0 0 1 4.75-4.75h4a.75.75 0 0 1 0 1.5h-4a3.254 3.254 0 0 0-3.25 3.25v5a.75.75 0 0 1-.75.75z" transform="translate(-222.185 -399.743)"/>
+</svg>

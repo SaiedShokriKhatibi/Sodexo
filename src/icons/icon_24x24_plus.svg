@@ -1,0 +1,17 @@
+<svg id="icon_24x24_plus" data-name="icon/24x24/plus" xmlns="http://www.w3.org/2000/svg" width="21.8" height="21.8">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1027" data-name="Path 1027" class="cls-1" d="M739.129 320.212a1 1 0 0 1 .993.883l.007.117v8.9h8.9a1 1 0 0 1 .116 1.993l-.116.007h-8.9v8.9a1 1 0 0 1-1.994.117l-.006-.117v-8.9h-8.9a1 1 0 0 1-.117-1.993l.117-.007h8.9v-8.9a1 1 0 0 1 1-1z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_967" data-name="Group 967" transform="translate(-728.229 -320.212)">
+        <g id="Group_966" data-name="Group 966" style="clip-path:url(#clip-path)">
+            <g id="Group_794" data-name="Group 794">
+                <path id="Path_850" data-name="Path 850" class="cls-1" d="M723.229 315.212h31.8v31.8h-31.8z"/>
+            </g>
+        </g>
+    </g>
+</svg>

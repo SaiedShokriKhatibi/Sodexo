@@ -1,0 +1,10 @@
+<svg data-name="icon/16x16/arrow-thin-up" xmlns="http://www.w3.org/2000/svg" width="15" height="9" viewBox="0 0 15 9">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Path 1080" d="m375.912 409.546 7.273-7.614 7.272 7.614a.838.838 0 0 1 0 1.148.75.75 0 0 1-1.011.079l-.087-.079-6.175-6.464-6.176 6.464a.75.75 0 0 1-1.011.079l-.087-.079a.84.84 0 0 1-.074-1.057z" transform="translate(-375.685 -401.932)" style="fill:none;clip-rule:evenodd"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1065" style="clip-path:url(#a)">
+        <path data-name="Rectangle 66" transform="translate(-5.173 -5.414)" style="fill:#18204b" d="M0 0h25.345v19.828H0z"/>
+    </g>
+</svg>

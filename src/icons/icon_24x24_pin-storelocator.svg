@@ -1,0 +1,27 @@
+<svg id="icon_24x24_pin-storelocator" data-name="icon/24x24/pin-storelocator" xmlns="http://www.w3.org/2000/svg" width="18.005" height="22.064" viewBox="0 0 18.005 22.064">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1025" data-name="Path 1025" class="cls-1" d="M697.293 328.46c.058 5.767 5.218 10.129 7.012 11.475 1.741-1.376 6.788-5.733 6.736-10.877a7.183 7.183 0 0 0-2.335-5.286 6.883 6.883 0 0 0-11.413 4.688zm6.765-8.428a8.915 8.915 0 0 1 6.107 2.271 9.118 9.118 0 0 1 2.971 6.664c.03 3.019-1.4 6.214-4.123 9.256a25.038 25.038 0 0 1-4.129 3.682 1.078 1.078 0 0 1-1.208.01c-.356-.229-8.463-5.572-8.544-13.515-.045-4.552 3.931-8.325 8.9-8.368zm-4.429 8.68a4.516 4.516 0 1 1 4.5 4.14 4.332 4.332 0 0 1-4.5-4.14zm7 0a2.509 2.509 0 1 0-2.5 2.3 2.41 2.41 0 0 0 2.5-2.3z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1026" data-name="Path 1026" class="cls-1" d="M703.162 327.781a1.576 1.576 0 0 1 1.458 1.005c.091.336.182.5-.274 1.677a1.462 1.462 0 0 0 1.388-1.532 1.5 1.5 0 0 0-.047-.3 1.667 1.667 0 0 0-2.525-.845z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_963" data-name="Group 963" transform="translate(-695.132 -320.031)">
+        <g id="Group_962" data-name="Group 962" style="clip-path:url(#clip-path)">
+            <g id="Group_792" data-name="Group 792">
+                <path id="Path_846" data-name="Path 846" d="M690.129 315.032h28.007V347.1h-28.007z" style="fill:#2a295c"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_965" data-name="Group 965" transform="translate(-695.132 -320.031)">
+        <g id="Group_964" data-name="Group 964" style="clip-path:url(#clip-path-2)">
+            <g id="Group_793" data-name="Group 793">
+                <path id="Path_848" data-name="Path 848" d="M698.162 322.492h12.567v12.972h-12.572z" style="fill:#ea444e"/>
+            </g>
+        </g>
+    </g>
+</svg>

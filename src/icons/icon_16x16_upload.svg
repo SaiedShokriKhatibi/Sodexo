@@ -1,0 +1,9 @@
+<svg id="icon_16x16_upload" data-name="icon/16x16/upload" xmlns="http://www.w3.org/2000/svg" width="13.5" height="13.498" viewBox="0 0 13.5 13.498">
+    <defs>
+        <style>
+            .cls-1{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1141" data-name="Path 1141" class="cls-1" d="M1193.935 413.243h-10a1.752 1.752 0 0 1-1.75-1.75v-3a.75.75 0 0 1 1.5 0v3a.25.25 0 0 0 .25.25h10a.251.251 0 0 0 .25-.25v-3a.75.75 0 0 1 1.5 0v3a1.753 1.753 0 0 1-1.75 1.75z" transform="translate(-1182.185 -399.745)"/>
+    <path id="Path_1142" data-name="Path 1142" class="cls-1" d="M1188.935 409.243a.75.75 0 0 1-.75-.75V402.3l-1.72 1.719a.75.75 0 1 1-1.061-1.06l3-3a.76.76 0 0 1 .242-.162.778.778 0 0 1 .577 0 .739.739 0 0 1 .242.162l3 3a.75.75 0 1 1-1.061 1.06l-1.719-1.719v6.189a.75.75 0 0 1-.75.754z" transform="translate(-1182.185 -399.745)"/>
+</svg>

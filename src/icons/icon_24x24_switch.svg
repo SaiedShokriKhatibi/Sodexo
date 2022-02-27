@@ -1,0 +1,13 @@
+<svg id="icon_24x24_switch" data-name="icon/24x24/switch" xmlns="http://www.w3.org/2000/svg" width="20.828" height="22" viewBox="0 0 20.828 22">
+    <defs>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_817" data-name="Group 817" transform="translate(-1068.715 -320.112)">
+        <path id="Path_1040" data-name="Path 1040" class="cls-1" d="M1083.629 342.112a1 1 0 0 1-.707-1.707l2.793-2.793h-9.586a1 1 0 0 1 0-2h9.586l-2.793-2.793a1 1 0 0 1 1.414-1.414l5.207 5.207-5.207 5.207a1 1 0 0 1-.707.293z"/>
+    </g>
+    <g id="Group_818" data-name="Group 818" transform="translate(-1068.715 -320.112)">
+        <path id="Path_1041" data-name="Path 1041" class="cls-1" d="M1074.629 331.112a1 1 0 0 1-.707-.293l-5.207-5.207 5.207-5.207a1 1 0 0 1 1.414 1.414l-2.793 2.793h9.586a1 1 0 0 1 0 2h-9.586l2.793 2.793a1 1 0 0 1-.707 1.707z"/>
+    </g>
+</svg>

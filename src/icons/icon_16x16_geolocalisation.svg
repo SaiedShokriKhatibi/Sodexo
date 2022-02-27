@@ -1,0 +1,53 @@
+<svg id="icon_16x16_geolocalisation" data-name="icon/16x16/geolocalisation" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="clip-path">
+            <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-1" cx="2.286" cy="2.286" r="2.286" transform="translate(744.649 404.207)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Path_1111" data-name="Path 1111" class="cls-1" d="M746.934 411.064a.538.538 0 0 1 .538.538v2.353a.538.538 0 1 1-1.076 0V411.6a.538.538 0 0 1 .538-.536z"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Path_1112" data-name="Path 1112" class="cls-1" d="M746.934 398.493a.538.538 0 0 1 .538.538v2.353a.538.538 0 1 1-1.076 0v-2.353a.538.538 0 0 1 .538-.538z"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Path_1113" data-name="Path 1113" class="cls-1" d="M742.363 406.493a.538.538 0 0 1-.538.538h-2.352a.538.538 0 1 1 0-1.076h2.352a.538.538 0 0 1 .538.538z"/>
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <path id="Path_1114" data-name="Path 1114" class="cls-1" d="M754.935 406.493a.538.538 0 0 1-.538.538h-2.353a.538.538 0 1 1 0-1.076h2.356a.538.538 0 0 1 .535.538z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#18204b}
+        </style>
+    </defs>
+    <g id="Group_1097" data-name="Group 1097" transform="translate(-738.935 -398.493)">
+        <g id="Group_1096" data-name="Group 1096" class="cls-2">
+            <path id="Rectangle_82" data-name="Rectangle 82" class="cls-3" transform="translate(739.649 399.207)" d="M0 0h14.571v14.571H0z"/>
+        </g>
+    </g>
+    <g id="Group_1099" data-name="Group 1099" transform="translate(-738.935 -398.493)">
+        <g id="Group_1098" data-name="Group 1098" class="cls-2">
+            <path id="Rectangle_83" data-name="Rectangle 83" class="cls-3" transform="translate(739.649 399.207)" d="M0 0h14.571v14.571H0z"/>
+        </g>
+    </g>
+    <path id="Path_1110" data-name="Path 1110" class="cls-3" d="M746.935 413.35a6.857 6.857 0 1 1 6.857-6.857 6.865 6.865 0 0 1-6.857 6.857zm0-12.714a5.857 5.857 0 1 0 5.857 5.857 5.864 5.864 0 0 0-5.857-5.857z" transform="translate(-738.935 -398.493)"/>
+    <g id="Group_1101" data-name="Group 1101" transform="translate(-738.935 -398.493)">
+        <g id="Group_1100" data-name="Group 1100" style="clip-path:url(#clip-path-3)">
+            <path id="Rectangle_84" data-name="Rectangle 84" class="cls-3" transform="translate(741.396 406.064)" d="M0 0h11.076v13.429H0z"/>
+        </g>
+    </g>
+    <g id="Group_1103" data-name="Group 1103" transform="translate(-738.935 -398.493)">
+        <g id="Group_1102" data-name="Group 1102" style="clip-path:url(#clip-path-4)">
+            <path id="Rectangle_85" data-name="Rectangle 85" class="cls-3" transform="translate(741.396 393.493)" d="M0 0h11.076v13.429H0z"/>
+        </g>
+    </g>
+    <g id="Group_1105" data-name="Group 1105" transform="translate(-738.935 -398.493)">
+        <g id="Group_1104" data-name="Group 1104" style="clip-path:url(#clip-path-5)">
+            <path id="Rectangle_86" data-name="Rectangle 86" class="cls-3" transform="translate(733.935 400.955)" d="M0 0h13.429v11.076H0z"/>
+        </g>
+    </g>
+    <g id="Group_1107" data-name="Group 1107" transform="translate(-738.935 -398.493)">
+        <g id="Group_1106" data-name="Group 1106" style="clip-path:url(#clip-path-6)">
+            <path id="Rectangle_87" data-name="Rectangle 87" class="cls-3" transform="translate(746.506 400.955)" d="M0 0h13.429v11.076H0z"/>
+        </g>
+    </g>
+</svg>

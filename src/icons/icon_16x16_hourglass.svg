@@ -1,0 +1,31 @@
+<svg id="icon_16x16_hourglass" data-name="icon/16x16/hourglass" xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewBox="0 0 10 11">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1117" data-name="Path 1117" class="cls-1" d="M828.639 400.993h-7.4a1.282 1.282 0 0 0-1.308 1.245 5.009 5.009 0 0 0 10 .1v-.1a1.262 1.262 0 0 0-1.292-1.245zm0 1.245a3.7 3.7 0 0 1-7.4 0z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_1118" data-name="Path 1118" class="cls-1" d="M825.49 405.993h-1.111a.994.994 0 0 0-.2.013 4.825 4.825 0 0 0-4.248 4.732 1.286 1.286 0 0 0 1.307 1.255h7.385a1.287 1.287 0 0 0 1.308-1.255 4.836 4.836 0 0 0-4.249-4.732.994.994 0 0 0-.192-.013zm0 1.255a3.588 3.588 0 0 1 3.137 3.49h-7.385a3.588 3.588 0 0 1 3.137-3.49v2.938h1.111z"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_94" data-name="Rectangle 94" class="cls-1" transform="translate(820.935 409.993)" d="M0 0h8v1H0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-3{fill:#18204b}
+        </style>
+    </defs>
+    <g id="Group_1115" data-name="Group 1115" transform="translate(-819.935 -400.993)">
+        <g id="Group_1114" data-name="Group 1114" style="clip-path:url(#clip-path)">
+            <path id="Rectangle_91" data-name="Rectangle 91" class="cls-3" transform="translate(814.935 395.993)" d="M0 0h20v16H0z"/>
+        </g>
+    </g>
+    <g id="Group_1117" data-name="Group 1117" transform="translate(-819.935 -400.993)">
+        <g id="Group_1116" data-name="Group 1116" style="clip-path:url(#clip-path-2)">
+            <path id="Rectangle_92" data-name="Rectangle 92" class="cls-3" transform="translate(814.935 400.993)" d="M0 0h20v16H0z"/>
+        </g>
+    </g>
+    <g id="Group_1119" data-name="Group 1119" transform="translate(-819.935 -400.993)">
+        <g id="Group_1118" data-name="Group 1118" style="clip-path:url(#clip-path-3)">
+            <path id="Rectangle_93" data-name="Rectangle 93" class="cls-3" transform="translate(815.935 404.993)" d="M0 0h18v11H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="icon_16x16_garbage" data-name="icon/16x16/garbage" xmlns="http://www.w3.org/2000/svg" width="14" height="15">
+    <defs>
+        <style>
+            .cls-1{fill:#18204b}
+        </style>
+    </defs>
+    <path id="Path_1105" data-name="Path 1105" class="cls-1" d="M724.935 413.993h-8a2 2 0 0 1-2-2v-10h12v10a2 2 0 0 1-2 2zm-8.5-10.5v8.5a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-8.5z" transform="translate(-713.935 -398.993)"/>
+    <path id="Path_1106" data-name="Path 1106" class="cls-1" d="M726.935 403.993h-12a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2zm-12-1.5v.5z" transform="translate(-713.935 -398.993)"/>
+    <path id="Path_1107" data-name="Path 1107" class="cls-1" d="M723.935 403.993h-6v-3a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2zm-4.5-1.5h3v-1.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5z" transform="translate(-713.935 -398.993)"/>
+    <path id="Path_1108" data-name="Path 1108" class="cls-1" d="M719.185 410.993a.75.75 0 0 1-.75-.75v-3.5a.75.75 0 0 1 1.5 0v3.5a.75.75 0 0 1-.75.75z" transform="translate(-713.935 -398.993)"/>
+    <path id="Path_1109" data-name="Path 1109" class="cls-1" d="M722.685 410.993a.75.75 0 0 1-.75-.75v-3.5a.75.75 0 0 1 1.5 0v3.5a.75.75 0 0 1-.75.75z" transform="translate(-713.935 -398.993)"/>
+</svg>

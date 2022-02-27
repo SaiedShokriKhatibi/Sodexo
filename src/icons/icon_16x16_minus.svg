@@ -1,0 +1,10 @@
+<svg data-name="icon/16x16/minus" xmlns="http://www.w3.org/2000/svg" width="14" height="1.5" viewBox="0 0 14 1.5">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Path 1123" d="M896.685 405.743h12.5a.75.75 0 0 1 0 1.5h-12.5a.75.75 0 0 1 0-1.5z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 1126" transform="translate(-895.935 -405.743)" style="clip-path:url(#a)">
+        <path data-name="Rectangle 98" transform="translate(890.935 400.743)" style="fill:#18204b" d="M0 0h24v11.5H0z"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="icon_24x24_cross" data-name="icon/24x24/cross" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_689" data-name="Group 689" transform="translate(-626.154 -249.112)">
+        <path id="Path_953" data-name="Path 953" class="cls-1" d="M645.154 269.112a1 1 0 0 1-.707-.293l-18-18a1 1 0 0 1 1.414-1.414l18 18a1 1 0 0 1-.707 1.707z"/>
+    </g>
+    <g id="Group_690" data-name="Group 690" transform="translate(-626.154 -249.112)">
+        <path id="Path_954" data-name="Path 954" class="cls-1" d="M627.154 269.112a1 1 0 0 1-.707-1.707l18-18a1 1 0 0 1 1.414 1.414l-18 18a1 1 0 0 1-.707.293z"/>
+    </g>
+</svg>

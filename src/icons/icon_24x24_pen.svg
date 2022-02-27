@@ -1,0 +1,23 @@
+<svg id="icon_24x24_pen" data-name="icon/24x24/pen" xmlns="http://www.w3.org/2000/svg" width="22.001" height="21.994" viewBox="0 0 22.001 21.994">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_1015" data-name="Path 1015" class="cls-1" d="M541.836 325.819a1 1 0 0 0-1.414-1.414zm-10 10 10-10-1.414-1.414-10 10z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#2a295c}
+        </style>
+    </defs>
+    <g id="Group_779" data-name="Group 779" transform="translate(-524.129 -320.118)">
+        <path id="Path_1014" data-name="Path 1014" class="cls-1" d="M531.244 342.112h-7.115v-7.135l13.392-13.442a5.176 5.176 0 0 1 7.092-.023 4.636 4.636 0 0 1 1.516 3.549 4.814 4.814 0 0 1-1.516 3.53zm-5.115-2h4.285l1.306-1.313 11.5-11.64a2.833 2.833 0 0 0 .912-2.1v-.038a2.649 2.649 0 0 0-.871-2.042 3.172 3.172 0 0 0-4.344-.013L526.129 335.8z"/>
+    </g>
+    <g id="Group_949" data-name="Group 949" transform="translate(-524.129 -320.118)">
+        <g id="Group_948" data-name="Group 948" style="clip-path:url(#clip-path)">
+            <g id="Group_780" data-name="Group 780">
+                <path id="Path_827" data-name="Path 827" class="cls-1" d="M525.422 319.112h21.707v21.707h-21.707z"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_781" data-name="Group 781" transform="translate(-524.129 -320.118)">
+        <path id="Rectangle_56" data-name="Rectangle 56" class="cls-1" transform="rotate(-45 666.373 -465.624)" d="M0 0h2v9.899H0z"/>
+    </g>
+</svg>
