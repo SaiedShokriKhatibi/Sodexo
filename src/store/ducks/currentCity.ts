@@ -1,5 +1,4 @@
 // Actions
-import { CityDTO } from 'src/api';
 
 export const SET_CITY = 'city/SET';
 
@@ -8,7 +7,7 @@ interface IAction<T> {
   type: string;
 }
 
-export interface ICityProps extends CityDTO {
+export interface ICityProps {
   title: string;
   slug: string;
 }

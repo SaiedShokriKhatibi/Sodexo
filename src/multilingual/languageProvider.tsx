@@ -1,15 +1,20 @@
-import { createContext, useState } from "react"
+import React, { createContext, useState, useMemo } from "react";
 
-export const defaultLocale = "tr"
-export const locales = ["tr", "en"]
-export const LanguageContext = createContext([])
+const locales = ["tr", "en"];
+const defaultLocale = "tr";
+const LanguageContext = createContext([]);
 
-export const LanguageProvider: React.FC = ({ children }) => {
-  const [locale, setLocale] = useState("tr")
+const LanguageProvider: React.FC = ({ children }) => {
+  const [locale, setLocale] = useState(defaultLocale);
+  const languageContextValue = useMemo(() => {
+    return [locale, setLocale];
+  }, [locale, setLocale]);
 
   return (
-    <LanguageContext.Provider value={[locale, setLocale]}>
+    <LanguageContext.Provider value={languageContextValue}>
       {children}
     </LanguageContext.Provider>
   )
-}
+};
+
+export default LanguageProvider;

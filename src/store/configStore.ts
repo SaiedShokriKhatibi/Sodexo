@@ -1,9 +1,10 @@
 import { createStore, Store } from 'redux';
-import rootReducers from 'src/store/ducks/reducer';
-import { devToolsEnhancer } from 'redux-devtools-extension/developmentOnly';
+import rootReducers from '../store/ducks/reducer';
+// import { devToolsEnhancer } from 'redux-devtools-extension/developmentOnly';
 
 const configStore = (): Store => {
-  return createStore(rootReducers, devToolsEnhancer({}));
+  return createStore(rootReducers);
+  // return createStore(rootReducers, devToolsEnhancer({}));
 };
 
 export default configStore;
